@@ -14,7 +14,7 @@ Site de portfólio pessoal criado para apresentar meu perfil profissional, habil
 - GitHub Pages
 
 ## Link do site publicado
-https://github.io
+[https://github.io](https://github.io)
 
 ## Funcionamento do projeto
 O site funciona em uma única página com menu fixo no topo que leva o visitante até as seções de Perfil, Projetos e Contato. Ele também conta com um banner rotativo (carousel) e se adapta automaticamente ao tamanho da tela de computadores e celulares.
